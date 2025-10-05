@@ -7,7 +7,7 @@ This application is developed using Python with Pandas for data handling, Stream
 # Features:
 - Login system with role-based access (Client / Support)
 - Clients can submit new queries with unique IDs
-- Support team can view, filter, and close queries
+- Support team can view, filter and close queries
 - Data stored in MySQL with CSV backup for records
 
 # Tech Stack:
